@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "multiplicacion.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
